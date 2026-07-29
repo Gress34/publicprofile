@@ -1,6 +1,6 @@
 </think>
 
-# AI Training Environments
+# 4-AI-Training-Environments
 
 This project demonstrates how to create reinforcement learning environments that test an AI model's ability to design, deploy, troubleshoot, secure, scale, and recover production-grade cloud infrastructure. It includes realistic scenarios involving distributed systems, networking, IAM, queues, durable storage, observability, rolling deployments, and disaster recovery.
 

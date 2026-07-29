@@ -1,6 +1,6 @@
 </think>
 
-# Cloud Infrastructure Automation
+# 1-Cloud-Infrastructure-Automation
 
 This project demonstrates how to automate cloud infrastructure using Terraform and Ansible. It includes scripts and configurations for creating scalable, secure, and reliable cloud environments.
 

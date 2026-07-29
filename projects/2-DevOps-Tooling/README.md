@@ -1,6 +1,6 @@
 </think>
 
-# DevOps Tooling
+# 2-DevOps-Tooling
 
 This project showcases a collection of DevOps tools and scripts for CI/CD, infrastructure automation, and cloud operations. It includes tools for testing, deployment, and monitoring.
 
